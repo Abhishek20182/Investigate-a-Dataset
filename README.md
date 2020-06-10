@@ -28,3 +28,18 @@ Try and suggest questions that promote looking at relationships between multiple
 #### Step Four - Share Your Findings
 
 Once you have finished analyzing the data, create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. Make sure that your report text is contained in Markdown cells to clearly distinguish your comments and findings from your code work. You should also feel free to use other tools and software to craft your final report, but make sure that you can submit your report as an HTML or PDF file so that it can be opened easily.
+
+### Submission
+What to include in your submission
+<ol>
+    <li>A PDF or HTML file containing your analysis. This file should include:</li>
+       <ul>
+        <li>A note specifying which dataset you analyzed</li>
+        <li>A statement of the question(s) you posed</li>
+        <li>A description of what you did to investigate those questions</li>
+        <li>Documentation of any data wrangling you did</li>
+        <li>Summary statistics and plots communicating your final results</li>
+       </ul>
+    <li>Code you used to perform your analysis. If you used a Jupyter notebook, you can submit your .ipynb. Otherwise, you should submit the code separately in .py file(s).</li>
+    <li>A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).</li>
+</ol>
