@@ -31,8 +31,8 @@ Once you have finished analyzing the data, create a report that shares the findi
 
 ### Submission
 What to include in your submission
-<ol>
-    <li>A PDF or HTML file containing your analysis. This file should include:</li>
+<ul>
+   <li>A PDF or HTML file containing your analysis. This file should include:</li>
        <ul>
         <li>A note specifying which dataset you analyzed</li>
         <li>A statement of the question(s) you posed</li>
@@ -40,6 +40,6 @@ What to include in your submission
         <li>Documentation of any data wrangling you did</li>
         <li>Summary statistics and plots communicating your final results</li>
        </ul>
-    <li>Code you used to perform your analysis. If you used a Jupyter notebook, you can submit your .ipynb. Otherwise, you should submit the code separately in .py file(s).</li>
-    <li>A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).</li>
-</ol>
+   <li>Code you used to perform your analysis. If you used a Jupyter notebook, you can submit your .ipynb. Otherwise, you should submit the code separately in .py file(s).</li>
+   <li>A list of Web sites, books, forums, blog posts, github repositories, etc. that you referred to or used in creating your submission (add N/A if you did not use any such resources).</li>
+</ul>
